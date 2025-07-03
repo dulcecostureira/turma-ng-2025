@@ -1,6 +1,6 @@
 body {
     background-color: black;
-    color: rgb(221, 72, 164);
+    color: rgb(0, 0, 0);
     margin: 0px;
 }
 
@@ -9,5 +9,16 @@ header {
     color: rgb(0, 195, 255);
     padding: 20px;
     font-size: 32px;
+}
 
+section {
+    background: rgb(193, 68, 10);
+    padding-bottom: 60px;
+    padding-top: 60px;
+    display: flex;
+    justify-content: center;
+
+}
+.chamada-texto{
+    margin-right: 5%;
 }
